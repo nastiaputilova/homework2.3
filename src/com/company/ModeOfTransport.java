@@ -4,7 +4,6 @@ public class ModeOfTransport {
 
     private String modelName;
     private int wheelsCount;
-
     public ModeOfTransport(String modelName, int wheelsCount) {
         this.modelName = modelName;
         this.wheelsCount = wheelsCount;
